@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MQTT_BROKER_SERVER": "mosquitto_broker",
+        "MQTT_TOPIC": "dashboard/#",
+        "MQTT_USER": "edge",
+        "MQTT_PASSWORD": "edge",
+        "INFLUXDB_IP": "influxdb",
+        "INFLUXDB_DATABASE": "data"
+    }
+}
